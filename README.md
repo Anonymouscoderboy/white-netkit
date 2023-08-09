@@ -13,7 +13,7 @@ _______________
 	$ sudo apt-get install macchanger
 	$ sudo apt-get install tor torsocks
 	$ sudo apt-get install tcpdump
-	$ git clone https://github.com/WH1T3-E4GL3/white-netkit.git
+	$ git clone https://github.com/Anonymouscoderboy/white-netkit
 	$ cd white-netkit
 	$ pip install scapy
 	$ git pull
@@ -27,8 +27,8 @@ Overall, this toolkit provides a comprehensive set of network-related functional
 Tool used for network attack.
 Tool devoloped by white eagle.
 
-Github   : https://github.com/WH1T3-E4GL3
-Telegram : https://t.me/Ka_KsHi_HaTaKe
+Github   : https://github.com/Anonymouscoderboy
+Telegram : https://t.me/CodeNexus_community
 
 #screenshort
 
